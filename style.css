@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+  }
+  
+  body {
+    background-color: #09090A;
+    color: white;
+  
+    display: grid;
+    /*centralizar tudo no meio da tela, display*/
+    place-items: center;
+    /*100% é toda a parte visivel*/
+    height: 100vh;
+  }
